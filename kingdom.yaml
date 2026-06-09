@@ -1,0 +1,8 @@
+name: hanme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The accumulated grief of a people, carried across generations of unacknowledged injustice, that becomes the source of their most beautiful creative work when it is fully voiced and witnessed.
+dependsOn: [youspeak, me, puldame, ehanme]
